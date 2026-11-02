@@ -170,7 +170,7 @@ function saveData(id) {
 
     localStorage.setItem("productId", id);
     
-    window.location.href = 'Product-descriptions.html.html';
+    window.location.href = 'product-descriptions.html.html';
     
 
 }
